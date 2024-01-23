@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\bin\Debug\net8.0\WorkingWithStrng.exe
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\bin\Debug\net8.0\WorkingWithStrng.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\bin\Debug\net8.0\WorkingWithStrng.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\bin\Debug\net8.0\WorkingWithStrng.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\bin\Debug\net8.0\WorkingWithStrng.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\refint\WorkingWithStrng.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\WorkingWithStrng.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\WorkingWithStrng\obj\Debug\net8.0\ref\WorkingWithStrng.dll

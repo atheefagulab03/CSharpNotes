@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\bin\Debug\net8.0\PrimitiveType.exe
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\bin\Debug\net8.0\PrimitiveType.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\bin\Debug\net8.0\PrimitiveType.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\bin\Debug\net8.0\PrimitiveType.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\bin\Debug\net8.0\PrimitiveType.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\refint\PrimitiveType.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\PrimitiveType.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveType\obj\Debug\net8.0\ref\PrimitiveType.dll

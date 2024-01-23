@@ -1,0 +1,7 @@
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe.config
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\bin\Debug\PrimitiveTypes.exe
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\bin\Debug\PrimitiveTypes.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.AssemblyReference.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\obj\Debug\PrimitiveTypes.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\obj\Debug\PrimitiveTypes.exe
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\PrimitiveTypes\obj\Debug\PrimitiveTypes.pdb

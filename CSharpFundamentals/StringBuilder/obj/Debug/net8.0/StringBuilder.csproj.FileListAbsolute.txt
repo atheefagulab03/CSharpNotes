@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\bin\Debug\net8.0\NonPrimitive.exe
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\bin\Debug\net8.0\NonPrimitive.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\bin\Debug\net8.0\NonPrimitive.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\bin\Debug\net8.0\NonPrimitive.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\bin\Debug\net8.0\NonPrimitive.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\refint\NonPrimitive.dll
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\NonPrimitive.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpFundamentals\NonPrimitive\obj\Debug\net8.0\ref\NonPrimitive.dll

@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\bin\Debug\net8.0\Fields.exe
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\bin\Debug\net8.0\Fields.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\bin\Debug\net8.0\Fields.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\bin\Debug\net8.0\Fields.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\bin\Debug\net8.0\Fields.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\refint\Fields.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\Fields.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\Fields\obj\Debug\net8.0\ref\Fields.dll

@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\bin\Debug\net8.0\ObjectInitialization.exe
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\bin\Debug\net8.0\ObjectInitialization.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\bin\Debug\net8.0\ObjectInitialization.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\bin\Debug\net8.0\ObjectInitialization.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\bin\Debug\net8.0\ObjectInitialization.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\refint\ObjectInitialization.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ObjectInitialization.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ObjectInitialization\obj\Debug\net8.0\ref\ObjectInitialization.dll

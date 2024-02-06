@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AccesModifierLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AccesModifierLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccesModifierLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccesModifierLib/1.0.0": {
+      "type": "project",
+      "path": "../AccesModifierLib/AccesModifierLib.csproj",
+      "msbuildProject": "../AccesModifierLib/AccesModifierLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AccesModifierLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AtheefaGulab\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AtheefaGulab\\source\\repos\\CSharpIntermediate\\AccessModifiers\\AccessModifiers.csproj",
+      "projectName": "AccessModifiers",
+      "projectPath": "C:\\Users\\AtheefaGulab\\source\\repos\\CSharpIntermediate\\AccessModifiers\\AccessModifiers.csproj",
+      "packagesPath": "C:\\Users\\AtheefaGulab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AtheefaGulab\\source\\repos\\CSharpIntermediate\\AccessModifiers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AtheefaGulab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\AtheefaGulab\\source\\repos\\CSharpIntermediate\\AccesModifierLib\\AccesModifierLib.csproj": {
+              "projectPath": "C:\\Users\\AtheefaGulab\\source\\repos\\CSharpIntermediate\\AccesModifierLib\\AccesModifierLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

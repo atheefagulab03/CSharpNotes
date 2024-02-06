@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\ClassCoupling.exe
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\ClassCoupling.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\ClassCoupling.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\ClassCoupling.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\ClassCoupling.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\refint\ClassCoupling.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ClassCoupling.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ref\ClassCoupling.dll

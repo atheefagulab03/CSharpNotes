@@ -1,0 +1,14 @@
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\Inheritance.exe
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\Inheritance.deps.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\Inheritance.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\bin\Debug\net8.0\Inheritance.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\refint\Inheritance.dll
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.pdb
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\Users\AtheefaGulab\source\repos\CSharpIntermediate\ClassCoupling\obj\Debug\net8.0\ref\Inheritance.dll
